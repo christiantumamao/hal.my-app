@@ -18,8 +18,6 @@ function Contact({c1,c3,c4}){
         <div className="share">
         <a href="#" className="fab fa-facebook-f"></a>
         <a href="#" className="fab fa-twitter"></a>
-        <a href="#" className="fab fa-instagram"></a>
-        <a href="#" className="fab fa-telegram"></a>
         <a href="#" className="fab fa-tiktok"></a>
       </div>
         <div className="inputbox">
